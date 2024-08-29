@@ -17,7 +17,7 @@ hero:
       link: /docs/intro
     - theme: alt
       text: GitHub
-      link: "#"
+      link: "https://github.com/rizqisetiaji7/Git-docs-id"
 ---
 
 <script type="module">
