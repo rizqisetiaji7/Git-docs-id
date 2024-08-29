@@ -1,10 +1,10 @@
-# :sparkles: Javascript ASYNC
+# :sparkles: Git VCS Bahasa Indonesia
 
- Repositori ini merupakan catatan/rangkuman dokumentasi dari pembelajaran seputar JavaScript Asynchronous Bahasa Indonesia.
+ Repositori ini merupakan catatan/rangkuman dokumentasi dari pembelajaran seputar Git Bahasa Indonesia.
 
 **Clone repository**
 ```
-git clone https://github.com/rizqisetiaji7/Javascript-async-docs-id.git
+git clone https://github.com/rizqisetiaji7/Git-docs-id.git
 ```
 
 **Install dependency**
