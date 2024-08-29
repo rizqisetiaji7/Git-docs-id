@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: Dokumentasi
-      link: /docs/intro
+      link: /docs/basic/
     - theme: alt
       text: GitHub
       link: "https://github.com/rizqisetiaji7/Git-docs-id"
