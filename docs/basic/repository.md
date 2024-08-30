@@ -23,7 +23,7 @@ git init
 
 Jika berhasil maka akan muncul keterangan seperti berikut:
 
-```sh
+```
 Initialized empty Git repository in D:/Programming/git-src/.git/
 ```
 
@@ -36,7 +36,7 @@ ls -l
 
 Setelah perintah diatas dijalankan maka akan muncul informasi dari folder `.git` seperti berikut:
 
-```sh
+```
 total 7
 -rw-r--r-- 1 Administrator 197121 112 Aug 28 16:11 config     
 -rw-r--r-- 1 Administrator 197121  73 Aug 28 16:11 description

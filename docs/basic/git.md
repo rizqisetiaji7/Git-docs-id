@@ -36,6 +36,6 @@ git --version
 
 Jika berhasil maka perintah diatas akan menampilkan versi Git yang terinstal. Contoh hasil perintah di atas pada OS windows, akan muncul info versinya seperti berikut:
 
-```sh
+```
 git version 2.45.2.windows.1
 ```
