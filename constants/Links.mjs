@@ -26,7 +26,7 @@ export const SIDEBAR_LINKS = {
 
 
 export const NAV_LINKS = [
-	{ text: 'Beranda', link: '/' },
+	{ text: 'Home', link: '/' },
 	{ 
 		text: 'Dokumentasi',
 		items: [
