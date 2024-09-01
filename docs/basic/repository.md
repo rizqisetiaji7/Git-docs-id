@@ -17,7 +17,9 @@ Menjalankan perintah untuk membuat repository. Sebagai contoh membuat repository
 
 ```sh
 mkdir git-src
+
 cd git-src
+
 git init
 ```
 
@@ -31,6 +33,7 @@ Jika ingin melihat isi dari folder `.git`, lakukan perintah berikut:
 
 ```sh
 cd .git
+
 ls -l
 ```
 

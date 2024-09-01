@@ -8,6 +8,7 @@ Setelah selesai menginstal Git, hal pertama yang harus dilakukan adalah melakuka
 
 ```sh
 git config --global user.name "John Doe"
+
 git config --global user.email "johndoe@mail.com"
 ```
 
