@@ -18,6 +18,35 @@ hero:
     - theme: alt
       text: GitHub
       link: "https://github.com/rizqisetiaji7/Git-docs-id"
+
+features:
+  - icon: 
+      src: /favicon.ico
+      alt: git
+      width: 32
+      height: 32
+    title: Git Dasar
+    details: Belajar dasar git dan best practice git
+    link: /docs/basic/
+    linkText: Selengkapnya
+  - icon: 
+      src: /favicon.ico
+      alt: git
+      width: 32
+      height: 32
+    title: Git Branching
+    details: Belajar git branching dan best practice git
+    link: /docs/git-branching/
+    linkText: Selengkapnya
+  - icon: 
+      src: /favicon.ico
+      alt: git
+      width: 32
+      height: 32
+    title: Git Remote
+    details: Belajar git remote dan best practice git
+    link: /docs/git-remote/
+    linkText: Selengkapnya
 ---
 
 <script type="module">
