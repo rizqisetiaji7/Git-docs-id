@@ -3,10 +3,11 @@ import { NAV_LINKS, SIDEBAR_LINKS, SOCIAL_LINKS } from '../constants/Links.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang: 'id-ID',
-  title: "Git",
+  lang: 'id',
+  title: "Git VCS",
   description: "Belajar Git Dasar Bahasa Indonesia",
   cleanUrls: true,
+  ignoreDeadLinks: true,
   markdown: {
     theme: {
       light: 'github-light',

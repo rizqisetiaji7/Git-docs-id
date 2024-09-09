@@ -48,7 +48,3 @@ features:
     link: /docs/git-remote/
     linkText: Selengkapnya
 ---
-
-<script type="module">
-  import '/main.css'
-</script>

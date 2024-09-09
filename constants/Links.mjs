@@ -8,8 +8,9 @@ export const SIDEBAR_LINKS = {
 		{ text: 'Git', link: '/docs/basic/git' },
 		{ text: 'Konfigurasi', link: '/docs/basic/konfigurasi' },
 		{ text: 'Repository', link: '/docs/basic/repository' },
-		{ text: 'The Three States', link: '/docs/basic/the-three-states' },
+		{ text: 'The Three Tree', link: '/docs/basic/the-three-tree' },
 		{ text: 'Workflow', link: '/docs/basic/workflow' },
+		{ text: 'Hash', link: '/docs/basic/hash' },
 	],
 	'/docs/git-branching/': [
 		{ text: 'Intro', link: '/docs/git-branching/' },

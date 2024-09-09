@@ -1,8 +1,10 @@
 ---
-title: The Three States
+title: Arsitektur Three Tree
 ---
 
-# The Three States
+# Arsitektur Three Tree
+
+## The Three States
 
 Git memiliki tiga state terhadap file yang di kelola, yaitu `modified`, `staged`, dan `commited`.
 
@@ -20,5 +22,5 @@ Pada tiga state sebelumnya pada Git dilakukan di section yang berbeda-beda. Tiga
 
 ## Diagram Three Tree
 
-| Working | -> | `git add` | -> | Staging Index | -> | `git commit` | -> | Repository |
-| ------- | -- | --------- | -- | ------------- | -- | ------------ | -- | ---------- |
+| Working -> | `git add` -> | Staging Index -> | `git commit` -> | Repository |
+| ---------- | ----------- | ----------------- | --------------- | ---------- |
