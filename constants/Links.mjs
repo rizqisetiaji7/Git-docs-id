@@ -10,7 +10,7 @@ export const SIDEBAR_LINKS = {
 		{ text: 'Repository', link: '/docs/basic/repository' },
 		{ text: 'The Three Tree', link: '/docs/basic/the-three-tree' },
 		{ text: 'Workflow', link: '/docs/basic/workflow' },
-		{ text: 'Hash', link: '/docs/basic/hash' },
+		{ text: 'Snapshot & Hash', link: '/docs/basic/snapshot-hash' },
 	],
 	'/docs/git-branching/': [
 		{ text: 'Intro', link: '/docs/git-branching/' },
