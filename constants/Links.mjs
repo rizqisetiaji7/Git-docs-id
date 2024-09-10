@@ -11,6 +11,7 @@ export const SIDEBAR_LINKS = {
 		{ text: 'The Three Tree', link: '/docs/basic/the-three-tree' },
 		{ text: 'Workflow', link: '/docs/basic/workflow' },
 		{ text: 'Snapshot & Hash', link: '/docs/basic/snapshot-hash' },
+		{ text: 'Menambah File', link: '/docs/basic/tambah-file' },
 	],
 	'/docs/git-branching/': [
 		{ text: 'Intro', link: '/docs/git-branching/' },
