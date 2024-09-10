@@ -12,6 +12,7 @@ export const SIDEBAR_LINKS = {
 		{ text: 'Workflow', link: '/docs/basic/workflow' },
 		{ text: 'Snapshot & Hash', link: '/docs/basic/snapshot-hash' },
 		{ text: 'Menambah File', link: '/docs/basic/tambah-file' },
+		{ text: 'Mengubah File', link: '/docs/basic/update-file' },
 	],
 	'/docs/git-branching/': [
 		{ text: 'Intro', link: '/docs/git-branching/' },
