@@ -1,7 +1,0 @@
----
-title: Hash
----
-
-# Hash
-
-## Snapshot
