@@ -1,4 +1,4 @@
-export const SIDEBAR_LINKS = {
+const SIDEBAR_LINKS = {
 	'/docs': [
 		{ text: 'Prolog', link: '/docs' }
 	],
@@ -27,7 +27,7 @@ export const SIDEBAR_LINKS = {
 }
 
 
-export const NAV_LINKS = [
+const NAV_LINKS = [
 	{ text: 'Home', link: '/' },
 	{
 		text: 'Materi',
@@ -39,6 +39,14 @@ export const NAV_LINKS = [
 	}
 ]
 
-export const SOCIAL_LINKS = [
+const SOCIAL_LINKS = [
 	{ icon: 'github', link: 'https://github.com/rizqisetiaji7/Git-docs-id' }
 ]
+
+const links = {
+	nav: NAV_LINKS,
+	sidebar: SIDEBAR_LINKS,
+	socialLinks: SOCIAL_LINKS,
+}
+
+export default links
