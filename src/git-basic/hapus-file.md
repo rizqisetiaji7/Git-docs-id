@@ -6,7 +6,7 @@ title: Menghapus File
 
 Untuk melakukan hapus file di [Repository](/git-basic/repository), cukup lakukan delete file atau foldernya. Maka secara otomatis Git akan mendeteksi file atau folder yang hilang. Sama seperti menambah dan menghapus, jika ingin menyimpan secara permanen di `Repository`, maka harus menambahkan operasi tersebut ke `Staging Index`, lalu commit ke `Repository`.
 
-## Kode: Hapus File
+## Praktik
 
 Sebagai contoh pada repository `git-src`, silahkan hapus `file3.txt`. Jika sudah jalankan perintah berikut:
 
@@ -31,7 +31,7 @@ Pada informasi di atas terdapat `deleted: file3.txt`. Artinya, git telah mendete
 Untuk menyimpan perubahan diatas, maka pindahkan ke `Staging index`, lalu terakhir commit ke `repository`:
 
 ::: code-group
-```sh [Terminal]
+```sh [Command]
 git add file3.txt
 
 git status
@@ -48,7 +48,7 @@ Changes to be committed:
 Jalankan perintah commit:
 
 ::: code-group
-```sh [Terminal]
+```sh [Command]
 git commit -m "Menghapus file3.txt"
 ```
 
