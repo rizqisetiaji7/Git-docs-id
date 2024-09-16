@@ -3,12 +3,14 @@ layout: doc
 title: Dokumentasi Belajar Git
 ---
 
-# Dokumentasi Belajar Git
+# Dokumentasi
 
 Git merupakan sistem yang dapat memanage project menjadi lebih mudah. Khususnya bagi seorang programmer mempelajari Git merupakan sebuah keahlian yang wajib dimiliki, agar project yang dikerjakan menjadi lebih terstruktur. Selain itu, Git mendukung kolaborasi tim, sehingga project bisa dikerjakan bersama dimanapun dan kapanpun. 
 
-## Agenda belajar Git
+## Roadmap 
 
-1. Git Dasar - [Baca selengkapnya](/docs/basic/)
-2. Git Branching - [Baca selengkapnya](/docs/git-branching/)
-3. Git Remote - [Baca selengkapnya](/docs/git-remote/)
+Berikut alur lengkap belajar Git:
+
+1. Git Dasar <Badge type="warning" text="on progress" /> - [Baca selengkapnya](/git-basic/)
+2. Git Branching <Badge type="warning" text="on progress" /> - [Baca selengkapnya](/git-branching/)
+3. Git Remote <Badge type="warning" text="on progress" /> - [Baca selengkapnya](/git-remote/)
