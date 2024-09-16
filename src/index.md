@@ -27,7 +27,7 @@ features:
       height: 32
     title: Git Dasar
     details: Belajar dasar git dan best practice git
-    link: /basic/
+    link: /git-basic/
     linkText: Selengkapnya
   - icon: 
       src: /favicon.ico
