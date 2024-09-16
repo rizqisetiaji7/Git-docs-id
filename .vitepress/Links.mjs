@@ -1,20 +1,16 @@
 const SIDEBAR_LINKS = {
-	'/docs': [
-		{ text: 'Prolog', link: '/docs' }
-	],
-
-	'/basic/': [
-		{ text: 'Intro', link: '/basic/' },
-		{ text: 'Version Control', link: '/basic/version-control' },
-		{ text: 'Git', link: '/basic/git' },
-		{ text: 'Konfigurasi', link: '/basic/konfigurasi' },
-		{ text: 'Repository', link: '/basic/repository' },
-		{ text: 'The Three Tree', link: '/basic/the-three-tree' },
-		{ text: 'Workflow', link: '/basic/workflow' },
-		{ text: 'Snapshot & Hash', link: '/basic/snapshot-hash' },
-		{ text: 'Menambah File', link: '/basic/tambah-file' },
-		{ text: 'Mengubah File', link: '/basic/update-file' },
-		{ text: 'Menghapus File', link: '/basic/hapus-file' },
+	'/git-basic/': [
+		{ text: 'Intro', link: '/git-basic/' },
+		{ text: 'Version Control', link: '/git-basic/version-control' },
+		{ text: 'Git', link: '/git-basic/git' },
+		{ text: 'Konfigurasi', link: '/git-basic/konfigurasi' },
+		{ text: 'Repository', link: '/git-basic/repository' },
+		{ text: 'The Three Tree', link: '/git-basic/the-three-tree' },
+		{ text: 'Workflow', link: '/git-basic/workflow' },
+		{ text: 'Snapshot & Hash', link: '/git-basic/snapshot-hash' },
+		{ text: 'Menambah File', link: '/git-basic/tambah-file' },
+		{ text: 'Mengubah File', link: '/git-basic/update-file' },
+		{ text: 'Menghapus File', link: '/git-basic/hapus-file' },
 	],
 
 	'/git-branching/': [
@@ -29,10 +25,11 @@ const SIDEBAR_LINKS = {
 
 const NAV_LINKS = [
 	{ text: 'Home', link: '/' },
+	{ text: 'Docs', link: '/docs' },
 	{
 		text: 'Materi',
 		items: [
-			{ text: 'Git Dasar', link: '/basic/'},
+			{ text: 'Git Dasar', link: '/git-basic/'},
 			{ text: 'Git Branching', link: '/git-branching/'},
 			{ text: 'Git Remote', link: '/git-remote/'},
 		]
