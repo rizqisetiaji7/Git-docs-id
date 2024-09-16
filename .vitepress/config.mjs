@@ -1,14 +1,19 @@
 import { defineConfig } from 'vitepress'
-import links from './links.mjs'
+import links from './Links.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'id',
-  title: "Git VCS",
+  title: "Git Docs",
   description: "Belajar Git Dasar Bahasa Indonesia",
   cleanUrls: true,
   ignoreDeadLinks: true,
   srcDir: 'src',
+  vite: {
+    server: {
+      port: 9170
+    }
+  },
   markdown: {
     theme: {
       light: 'github-light',
