@@ -11,6 +11,7 @@ const SIDEBAR_LINKS = {
 		{ text: 'Menambah File', link: '/git-basic/tambah-file' },
 		{ text: 'Mengubah File', link: '/git-basic/update-file' },
 		{ text: 'Menghapus File', link: '/git-basic/hapus-file' },
+		{ text: 'Membatalkan Perubahan', link: '/git-basic/cancel-changes' },
 	],
 
 	'/git-branching/': [
