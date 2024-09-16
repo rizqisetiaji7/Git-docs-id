@@ -21,7 +21,7 @@ git config --global user.email "johndoe@mail.com"
 git config --list --show-origin
 ```
 
-```{16,17} [Result]
+```txt{16,17} [Result]
 file:C:/Program Files/Git/etc/gitconfig diff.astextplain.textconv=astextplain
 file:C:/Program Files/Git/etc/gitconfig filter.lfs.clean=git-lfs clean -- %f
 file:C:/Program Files/Git/etc/gitconfig filter.lfs.smudge=git-lfs smudge -- %f
